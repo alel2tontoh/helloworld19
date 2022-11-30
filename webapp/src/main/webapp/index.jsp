@@ -7,5 +7,5 @@
 <h1> His love will never end <h1>
 <h1> His Faithful Love Endures <h1>
 <h1>Thank you Lord for my Job Tomorrow
-God You are so Good
-The God of love my shepherd is
+	<h2>God You are so Good
+		<h2>The God of love my shepherd is
